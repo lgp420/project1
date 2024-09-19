@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(239, 155, 183);
+}
+#Logo{
+        width: 150px;
+        margin-bottom: 10px;
+        
+}
+#titulo{
+    padding: 20px;
+    color: rgb(46, 34, 213);
+    background-color: #cacad1;
+    border-radius: 50px;
+    margin-bottom: 10px;
+}
+.encolumnador{
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items: center;
+}
+.cajasRelleno{
+    padding: 10px 0px;
+    margin: 6px 0px;
+
+}
+#lblProd{
+    padding: 5px;
+    color: rgb(248, 163, 132);
+    background-color: #3d3d3d;
+
+}
+.estiloEnlace{
+    margin: 10px 0px;
+    padding: 10px 0px;
+    background-color: rgb(116, 141, 141);
+    color: aliceblue;
+}
+#contenedorPrincipal{
+    padding: 10px;
+}
